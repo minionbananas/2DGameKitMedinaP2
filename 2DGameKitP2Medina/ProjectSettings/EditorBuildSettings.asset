@@ -45,6 +45,9 @@ EditorBuildSettings:
     path: 
     guid: 2f940f82585e18b42b0512a994a12502
   - enabled: 1
-    path: Assets/NewScene.unity
+    path: 
     guid: a341347ecfade124f817cac8ea56a209
+  - enabled: 1
+    path: Assets/minionpoop.unity
+    guid: e4a1a81b83d1fd4498d618a095f82164
   m_configObjects: {}
